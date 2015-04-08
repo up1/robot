@@ -4,3 +4,6 @@ Library     Selenium2Library
 *** Testcases ***
 Test
     Open Browser     http://www.google.com
+
+Test 2
+    Open Browser     http://www.google.com
