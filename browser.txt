@@ -6,4 +6,4 @@ Test
     Open Browser     http://www.google.com
 
 Test 2
-    Open Browser     http://www.google.com
+    Open Browser2    http://www.google.com
